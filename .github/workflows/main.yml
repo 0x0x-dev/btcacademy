@@ -2,10 +2,7 @@ name: Fetch and Update Posts
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight UTC
-  push:
-    branches:
-      - main
+    - cron: '*/5 * * * *' # Runs every 5 minutes
 
 jobs:
   fetch-posts:
