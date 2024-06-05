@@ -2,7 +2,7 @@ name: Fetch and Update Posts
 
 on:
   schedule:
-    - cron: '0 */3 * * *' # Runs every 12 hours
+    - cron: '0 */3 * * *' # Runs every 3 hours
 
 jobs:
   fetch-posts:
