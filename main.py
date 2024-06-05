@@ -1,7 +1,6 @@
 import requests
 import re
 import json
-import os
 
 # Define a function to fetch and parse JSON data
 def fetch_posts(page):
@@ -31,14 +30,7 @@ def extract_currency_and_halal_status(title, content):
     
     return currency, is_halal
 
-# Load existing posts from JSON file
-def load_existing_posts(filename):
-    if os.path.exists(filename):
-        with open(filename, 'r', encoding='utf-8') as file:
-            return json.load(file)
-    return []
-
-# Save posts to JSON file
+# Save posts to JSON file (overwrites if exists)
 def save_posts(filename, posts):
     with open(filename, 'w', encoding='utf-8') as file:
         json.dump(posts, file, ensure_ascii=False, indent=4)
@@ -46,8 +38,7 @@ def save_posts(filename, posts):
 # Fetch posts and extract information
 def fetch_all_posts():
     current_page = 1
-    existing_posts = load_existing_posts('posts.json')
-    updated_posts = existing_posts[:]
+    all_posts = []
 
     while True:
         posts, error = fetch_posts(current_page)
@@ -74,16 +65,13 @@ def fetch_all_posts():
                     'currency': currency,
                     'is_halal': is_halal
                 }
+                all_posts.append(post_data)
                 
-                # Check if the post already exists and if it has changed
-                if post_data not in existing_posts:
-                    updated_posts.append(post_data)
-        
         # Move to the next page
         current_page += 1
     
-    # Save updated posts to JSON file
-    save_posts('posts.json', updated_posts)
+    # Save posts to JSON file (overwrite if exists)
+    save_posts('posts.json', all_posts)
 
 # Start fetching all posts
 fetch_all_posts()
