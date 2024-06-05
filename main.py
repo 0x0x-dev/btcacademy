@@ -77,7 +77,6 @@ def fetch_all_posts():
                 
                 # Check if the post already exists and if it has changed
                 if post_data not in existing_posts:
-                    print(f"Adding new or updated post {guid}")
                     updated_posts.append(post_data)
         
         # Move to the next page
