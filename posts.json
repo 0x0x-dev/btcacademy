@@ -1522,7 +1522,7 @@
     {
         "guid": "https://btcacademy.online/?p=49047",
         "currency": "JASMY",
-        "is_halal": null
+        "is_halal": true
     },
     {
         "guid": "https://btcacademy.online/?p=49304",
@@ -2087,7 +2087,7 @@
     {
         "guid": "https://btcacademy.online/?p=63194",
         "currency": "SPECTAR",
-        "is_halal": null
+        "is_halal": true
     },
     {
         "guid": "https://btcacademy.online/?p=63456",
