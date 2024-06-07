@@ -23,7 +23,7 @@ def extract_currency_and_halal_status(title, content):
     
     # Check if the content mentions the currency is halal
     if currency:
-        if f"فإن عملة {currency} حلال" in content or "والله أعلم" in content:
+        if "ولم تجد خدمات حرام" in content or f"فإن عملة {currency} حلال" in content or "والله أعلم" in content:
             is_halal = True
         elif f"فإن عملة {currency} حرام" in content or "لا ننصح بالاستثمار بها" in content:
             is_halal = False
