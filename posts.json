@@ -1407,7 +1407,7 @@
     {
         "guid": "https://btcacademy.online/?p=47072",
         "currency": "WTC",
-        "is_halal": null
+        "is_halal": true
     },
     {
         "guid": "https://btcacademy.online/?p=47193",
