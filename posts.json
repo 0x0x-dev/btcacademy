@@ -87,7 +87,7 @@
     {
         "guid": "https://btcacademy.online/?p=19535",
         "currency": "ALGO",
-        "is_halal": null
+        "is_halal": true
     },
     {
         "guid": "https://btcacademy.online/?p=19928",
@@ -172,7 +172,7 @@
     {
         "guid": "https://btcacademy.online/?p=20294",
         "currency": "RSR",
-        "is_halal": null
+        "is_halal": true
     },
     {
         "guid": "https://btcacademy.online/?p=20280",
@@ -377,7 +377,7 @@
     {
         "guid": "https://btcacademy.online/?p=21814",
         "currency": "BTG",
-        "is_halal": null
+        "is_halal": true
     },
     {
         "guid": "https://btcacademy.online/?p=21820",
@@ -422,7 +422,7 @@
     {
         "guid": "https://btcacademy.online/?p=22177",
         "currency": "HBAR",
-        "is_halal": null
+        "is_halal": true
     },
     {
         "guid": "https://btcacademy.online/?p=22196",
@@ -517,7 +517,7 @@
     {
         "guid": "https://btcacademy.online/?p=23206",
         "currency": "THETA",
-        "is_halal": null
+        "is_halal": true
     },
     {
         "guid": "https://btcacademy.online/?p=23243",
@@ -1177,7 +1177,7 @@
     {
         "guid": "https://btcacademy.online/?p=37016",
         "currency": "SKM",
-        "is_halal": null
+        "is_halal": true
     },
     {
         "guid": "https://btcacademy.online/?p=37309",
@@ -1192,12 +1192,12 @@
     {
         "guid": "https://btcacademy.online/?p=37582",
         "currency": "BNK",
-        "is_halal": null
+        "is_halal": true
     },
     {
         "guid": "https://btcacademy.online/?p=37664",
         "currency": "GMT",
-        "is_halal": null
+        "is_halal": true
     },
     {
         "guid": "https://btcacademy.online/?p=37701",
@@ -2787,7 +2787,7 @@
     {
         "guid": "https://btcacademy.online/?p=99521",
         "currency": "8221",
-        "is_halal": null
+        "is_halal": true
     },
     {
         "guid": "https://btcacademy.online/?p=99554",
