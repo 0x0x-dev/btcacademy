@@ -1,6 +1,7 @@
 name: Fetch and Update Posts
 
 on:
+  push:
   schedule:
     - cron: '0 */12 * * *' # Runs every 3 hours
 
