@@ -2898,5 +2898,15 @@
         "guid": "https://btcacademy.online/?p=103071",
         "currency": "SERO",
         "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=103559",
+        "currency": "DOPE",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=103568",
+        "currency": "IO",
+        "is_halal": true
     }
 ]
