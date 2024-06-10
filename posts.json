@@ -2905,6 +2905,11 @@
         "is_halal": false
     },
     {
+        "guid": "https://btcacademy.online/?p=103562",
+        "currency": "DEVVE",
+        "is_halal": true
+    },
+    {
         "guid": "https://btcacademy.online/?p=103568",
         "currency": "IO",
         "is_halal": true
