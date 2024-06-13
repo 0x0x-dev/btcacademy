@@ -2923,5 +2923,10 @@
         "guid": "https://btcacademy.online/?p=104013",
         "currency": "PACE",
         "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=104125",
+        "currency": "NIBI",
+        "is_halal": true
     }
 ]
