@@ -2928,5 +2928,10 @@
         "guid": "https://btcacademy.online/?p=104125",
         "currency": "NIBI",
         "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=104503",
+        "currency": "RWA",
+        "is_halal": false
     }
 ]
