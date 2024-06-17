@@ -2933,5 +2933,10 @@
         "guid": "https://btcacademy.online/?p=104503",
         "currency": "RWA",
         "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=104603",
+        "currency": "SYNC",
+        "is_halal": false
     }
 ]
