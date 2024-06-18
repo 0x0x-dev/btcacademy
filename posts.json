@@ -2938,5 +2938,15 @@
         "guid": "https://btcacademy.online/?p=104603",
         "currency": "SYNC",
         "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=104728",
+        "currency": "ZK",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=104754",
+        "currency": "FLOKI",
+        "is_halal": null
     }
 ]
