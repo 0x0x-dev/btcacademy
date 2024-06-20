@@ -2948,5 +2948,10 @@
         "guid": "https://btcacademy.online/?p=104754",
         "currency": "FLOKI",
         "is_halal": null
+    },
+    {
+        "guid": "https://btcacademy.online/?p=104981",
+        "currency": "CREDI",
+        "is_halal": false
     }
 ]
