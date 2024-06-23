@@ -2953,5 +2953,20 @@
         "guid": "https://btcacademy.online/?p=104981",
         "currency": "CREDI",
         "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=105434",
+        "currency": "ADF",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=105448",
+        "currency": "RAM",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=105461",
+        "currency": "ZRO",
+        "is_halal": false
     }
 ]
