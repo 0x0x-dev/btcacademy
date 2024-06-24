@@ -2968,5 +2968,10 @@
         "guid": "https://btcacademy.online/?p=105461",
         "currency": "ZRO",
         "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=105575",
+        "currency": "LVN",
+        "is_halal": false
     }
 ]
