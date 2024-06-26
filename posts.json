@@ -2978,5 +2978,10 @@
         "guid": "https://btcacademy.online/?p=105771",
         "currency": "MDUS",
         "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=105901",
+        "currency": "BYN",
+        "is_halal": false
     }
 ]
