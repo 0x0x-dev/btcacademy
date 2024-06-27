@@ -2983,5 +2983,10 @@
         "guid": "https://btcacademy.online/?p=105901",
         "currency": "BYN",
         "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=105997",
+        "currency": "ZLW",
+        "is_halal": null
     }
 ]
