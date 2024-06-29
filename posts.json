@@ -2988,5 +2988,15 @@
         "guid": "https://btcacademy.online/?p=105997",
         "currency": "ZLW",
         "is_halal": null
+    },
+    {
+        "guid": "https://btcacademy.online/?p=106285",
+        "currency": "ABT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=106296",
+        "currency": "AGI",
+        "is_halal": true
     }
 ]
