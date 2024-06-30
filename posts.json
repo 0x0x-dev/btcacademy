@@ -2998,5 +2998,10 @@
         "guid": "https://btcacademy.online/?p=106296",
         "currency": "AGI",
         "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=106449",
+        "currency": "PAAL",
+        "is_halal": false
     }
 ]
