@@ -3003,5 +3003,10 @@
         "guid": "https://btcacademy.online/?p=106449",
         "currency": "PAAL",
         "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=106608",
+        "currency": "SNY",
+        "is_halal": false
     }
 ]
