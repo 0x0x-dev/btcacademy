@@ -3008,5 +3008,10 @@
         "guid": "https://btcacademy.online/?p=106608",
         "currency": "SNY",
         "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=106852",
+        "currency": "XDEFI",
+        "is_halal": false
     }
 ]
