@@ -3013,5 +3013,10 @@
         "guid": "https://btcacademy.online/?p=106852",
         "currency": "XDEFI",
         "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=106920",
+        "currency": "HCT",
+        "is_halal": false
     }
 ]
