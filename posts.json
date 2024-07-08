@@ -3018,5 +3018,15 @@
         "guid": "https://btcacademy.online/?p=106920",
         "currency": "HCT",
         "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=107212",
+        "currency": "YGG",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=107215",
+        "currency": "BOME",
+        "is_halal": false
     }
 ]
