@@ -3028,5 +3028,15 @@
         "guid": "https://btcacademy.online/?p=107215",
         "currency": "BOME",
         "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=107236",
+        "currency": "AVA",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=107253",
+        "currency": "LOS",
+        "is_halal": false
     }
 ]
