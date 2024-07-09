@@ -3038,5 +3038,10 @@
         "guid": "https://btcacademy.online/?p=107253",
         "currency": "LOS",
         "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=107345",
+        "currency": "BLUM",
+        "is_halal": false
     }
 ]
