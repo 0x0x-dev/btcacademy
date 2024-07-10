@@ -3043,5 +3043,10 @@
         "guid": "https://btcacademy.online/?p=107345",
         "currency": "BLUM",
         "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=107501",
+        "currency": "ASI",
+        "is_halal": false
     }
 ]
