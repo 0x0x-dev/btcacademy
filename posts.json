@@ -3048,5 +3048,10 @@
         "guid": "https://btcacademy.online/?p=107501",
         "currency": "ASI",
         "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=107517",
+        "currency": "BDP",
+        "is_halal": false
     }
 ]
