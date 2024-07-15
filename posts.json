@@ -3053,5 +3053,10 @@
         "guid": "https://btcacademy.online/?p=107517",
         "currency": "BDP",
         "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=107820",
+        "currency": "PERI",
+        "is_halal": false
     }
 ]
