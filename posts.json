@@ -3058,5 +3058,10 @@
         "guid": "https://btcacademy.online/?p=107820",
         "currency": "PERI",
         "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=107945",
+        "currency": "TLM",
+        "is_halal": true
     }
 ]
