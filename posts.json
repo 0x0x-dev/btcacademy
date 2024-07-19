@@ -3063,5 +3063,10 @@
         "guid": "https://btcacademy.online/?p=107945",
         "currency": "TLM",
         "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=107995",
+        "currency": "MERL",
+        "is_halal": true
     }
 ]
