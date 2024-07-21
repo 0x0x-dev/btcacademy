@@ -3068,5 +3068,10 @@
         "guid": "https://btcacademy.online/?p=107995",
         "currency": "MERL",
         "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=108046",
+        "currency": "FORTH",
+        "is_halal": false
     }
 ]
