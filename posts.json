@@ -3078,5 +3078,10 @@
         "guid": "https://btcacademy.online/?p=108102",
         "currency": "BSW",
         "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=108135",
+        "currency": "DOGS",
+        "is_halal": false
     }
 ]
