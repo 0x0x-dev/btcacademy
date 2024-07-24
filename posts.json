@@ -3083,5 +3083,10 @@
         "guid": "https://btcacademy.online/?p=108135",
         "currency": "DOGS",
         "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=108150",
+        "currency": "LAI",
+        "is_halal": true
     }
 ]
