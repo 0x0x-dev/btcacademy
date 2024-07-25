@@ -3088,5 +3088,10 @@
         "guid": "https://btcacademy.online/?p=108150",
         "currency": "LAI",
         "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=108203",
+        "currency": "SSNC",
+        "is_halal": true
     }
 ]
