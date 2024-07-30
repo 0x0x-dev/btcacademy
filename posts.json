@@ -148,5 +148,2960 @@
         "guid": "https://btcacademy.online/?p=20165",
         "currency": "OGN",
         "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=20249",
+        "currency": "GTC",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=20253",
+        "currency": "RAD",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=20258",
+        "currency": "MASK",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=20276",
+        "currency": "KSM",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=20294",
+        "currency": "RSR",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=20280",
+        "currency": "BAT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=20419",
+        "currency": "IOST",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=20546",
+        "currency": "GNO",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=20542",
+        "currency": "STX",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=20537",
+        "currency": "FRONT",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=20446",
+        "currency": "BETA",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=20590",
+        "currency": "CTK",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=20603",
+        "currency": "SFP",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=20594",
+        "currency": "OCEAN",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=20657",
+        "currency": "HEGIC",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=20663",
+        "currency": "DATA",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=20668",
+        "currency": "TWT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=20798",
+        "currency": "BZRX",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=20794",
+        "currency": "TROY",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=20872",
+        "currency": "MATIC",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=20861",
+        "currency": "ENS",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=20855",
+        "currency": "BTCST",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=21071",
+        "currency": "ELF",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=21054",
+        "currency": "FARM",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=21031",
+        "currency": "WAVES",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=20965",
+        "currency": "PROM",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=20960",
+        "currency": "VIDT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=21206",
+        "currency": "FIS",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=21194",
+        "currency": "EOS",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=21180",
+        "currency": "XTZ",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=21292",
+        "currency": "CREAM",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=21287",
+        "currency": "NEAR",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=21302",
+        "currency": "IOTX",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=21368",
+        "currency": "REQ",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=21372",
+        "currency": "BADGER",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=21495",
+        "currency": "MIR",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=21490",
+        "currency": "FLUX",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=21485",
+        "currency": "YFI",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=21587",
+        "currency": "SUSHI",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=21590",
+        "currency": "NU",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=21596",
+        "currency": "OXT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=21600",
+        "currency": "UTK",
+        "is_halal": null
+    },
+    {
+        "guid": "https://btcacademy.online/?p=21702",
+        "currency": "XEC",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=21717",
+        "currency": "DOT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=21728",
+        "currency": "MLN",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=21814",
+        "currency": "BTG",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=21820",
+        "currency": "CKB",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=21899",
+        "currency": "ARPA",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=21902",
+        "currency": "CELO",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=21906",
+        "currency": "SAFEMOON",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=22032",
+        "currency": "AR",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=22036",
+        "currency": "CTXC",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=22041",
+        "currency": "HARD",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=22170",
+        "currency": "ONE",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=22177",
+        "currency": "HBAR",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=22196",
+        "currency": "SCRT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=22201",
+        "currency": "REEF",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=22205",
+        "currency": "BEL",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=22209",
+        "currency": "PERP",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=22318",
+        "currency": "FET",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=22324",
+        "currency": "HNT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=22344",
+        "currency": "CHR",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=22434",
+        "currency": "AAVE",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=22454",
+        "currency": "ICX",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=22501",
+        "currency": "COMP",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=22527",
+        "currency": "ICP",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=23032",
+        "currency": "POND",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=23038",
+        "currency": "PHA",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=23111",
+        "currency": "ATOM",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=23122",
+        "currency": "RVN",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=23126",
+        "currency": "NULS",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=23130",
+        "currency": "BOND",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=23133",
+        "currency": "RUNE",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=23206",
+        "currency": "THETA",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=23243",
+        "currency": "ALPACA",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=23257",
+        "currency": "ADA",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=23261",
+        "currency": "ZIL",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=23351",
+        "currency": "KAVA",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=23362",
+        "currency": "AERGO",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=23451",
+        "currency": "UTK",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=23463",
+        "currency": "ANKR",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=23467",
+        "currency": "KLAY",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=23616",
+        "currency": "BAND",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=23627",
+        "currency": "VET",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=23701",
+        "currency": "MINA",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=23716",
+        "currency": "C98",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=23727",
+        "currency": "GRT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=23981",
+        "currency": "DUSK",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=24126",
+        "currency": "FIL",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=24136",
+        "currency": "ETH",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=24147",
+        "currency": "DASH",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=24158",
+        "currency": "MTL",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=24259",
+        "currency": "FOR",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=24359",
+        "currency": "CFX",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=24363",
+        "currency": "MDT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=24386",
+        "currency": "BTC",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=24566",
+        "currency": "INJ",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=24587",
+        "currency": "LIT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=24678",
+        "currency": "DENT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=24684",
+        "currency": "SOL",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=24689",
+        "currency": "DOGE",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=24782",
+        "currency": "CTSI",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=24801",
+        "currency": "WBTC",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=24902",
+        "currency": "SUN",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=24982",
+        "currency": "BURGER",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=24988",
+        "currency": "SKL",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=24999",
+        "currency": "XLM",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=25059",
+        "currency": "XMR",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=25110",
+        "currency": "KCS",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=25120",
+        "currency": "TRX",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=25190",
+        "currency": "LTC",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=25196",
+        "currency": "XEM",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=25248",
+        "currency": "ETC",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=25319",
+        "currency": "MKR",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=25394",
+        "currency": "ATA",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=25411",
+        "currency": "ZEN",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=25422",
+        "currency": "YFII",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=25557",
+        "currency": "ARV",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=25565",
+        "currency": "HAI",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=25804",
+        "currency": "TFUEL",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=25890",
+        "currency": "ADX",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=25897",
+        "currency": "LSK",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=25903",
+        "currency": "STRAX",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=26004",
+        "currency": "DYDX",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=26008",
+        "currency": "RAZOR",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=26090",
+        "currency": "TRIAS",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=26100",
+        "currency": "XSR",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=26108",
+        "currency": "ALPHA",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=26194",
+        "currency": "OM",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=26203",
+        "currency": "EPS",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=26209",
+        "currency": "BEAM",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=26297",
+        "currency": "F",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=26307",
+        "currency": "PIVX",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=26537",
+        "currency": "USDT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=26563",
+        "currency": "LOOM",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=26577",
+        "currency": "NXS",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=26601",
+        "currency": "AION",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=26692",
+        "currency": "IRIS",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=26729",
+        "currency": "CVC",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=26740",
+        "currency": "AKRO",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=26830",
+        "currency": "SWRV",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=26837",
+        "currency": "XAUT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=27023",
+        "currency": "WABI",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=27031",
+        "currency": "SRM",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=27038",
+        "currency": "REV",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=27088",
+        "currency": "CHZ",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=27094",
+        "currency": "POA",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=27104",
+        "currency": "GVT",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=27405",
+        "currency": "VIB",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=27411",
+        "currency": "MFT",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=27518",
+        "currency": "GRS",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=27524",
+        "currency": "UNI",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=27529",
+        "currency": "UMA",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=27600",
+        "currency": "KMD",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=27883",
+        "currency": "RAY",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=27892",
+        "currency": "QSP",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=27903",
+        "currency": "PPT",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=27981",
+        "currency": "RIF",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=28128",
+        "currency": "REP",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=28142",
+        "currency": "STMX",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=28348",
+        "currency": "PAXG",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=28424",
+        "currency": "TRU",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=28430",
+        "currency": "XRP",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=28435",
+        "currency": "SNT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=28442",
+        "currency": "TEL",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=28609",
+        "currency": "MTH",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=28619",
+        "currency": "NAS",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=28756",
+        "currency": "NAV",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=28979",
+        "currency": "KEY",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=29097",
+        "currency": "QLC",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=29315",
+        "currency": "PERL",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=29390",
+        "currency": "SHR",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=29424",
+        "currency": "VTHO",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=29450",
+        "currency": "SHP",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=29610",
+        "currency": "RLC",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=29624",
+        "currency": "KAI",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=29739",
+        "currency": "XYO",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=29748",
+        "currency": "DGB",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=29863",
+        "currency": "TOMO",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=29889",
+        "currency": "ESP",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=29943",
+        "currency": "INT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=29949",
+        "currency": "SC",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=29958",
+        "currency": "GO",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=30589",
+        "currency": "DLT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=31094",
+        "currency": "NKN",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=31605",
+        "currency": "TRB",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=31926",
+        "currency": "ASM",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=32157",
+        "currency": "KRL",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=32455",
+        "currency": "BCN",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=32563",
+        "currency": "SBD",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=32668",
+        "currency": "XDC",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=32676",
+        "currency": "CQT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=33407",
+        "currency": "BSV",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=33414",
+        "currency": "MDX",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=33521",
+        "currency": "USDP",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=34852",
+        "currency": "USDC",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=35097",
+        "currency": "FTT",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=35693",
+        "currency": "MMO",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=35926",
+        "currency": "FOC",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=36082",
+        "currency": "DTA",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=36341",
+        "currency": "TTN",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=36484",
+        "currency": "ATL",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=36548",
+        "currency": "QQQ",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=36562",
+        "currency": "LXT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=36809",
+        "currency": "GLC",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=37016",
+        "currency": "SKM",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=37309",
+        "currency": "LQTY",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=37335",
+        "currency": "DOUGH",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=37582",
+        "currency": "BNK",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=37664",
+        "currency": "GMT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=37701",
+        "currency": "ZIG",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=37818",
+        "currency": "EPIC",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=38028",
+        "currency": "STC",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=38056",
+        "currency": "HYDRA",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=38252",
+        "currency": "HAPI",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=38375",
+        "currency": "KLO",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=38416",
+        "currency": "LSS",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=38425",
+        "currency": "SWASH",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=38441",
+        "currency": "SPIRIT",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=38568",
+        "currency": "PHB",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=38821",
+        "currency": "BMI",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=38931",
+        "currency": "UFT",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=39031",
+        "currency": "VAL",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=39096",
+        "currency": "ASTA",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=39101",
+        "currency": "DXL",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=39389",
+        "currency": "BNB",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=39526",
+        "currency": "HC",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=40001",
+        "currency": "LDO",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=40359",
+        "currency": "ORAI",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=40501",
+        "currency": "SOC",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=40778",
+        "currency": "ANC",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=40923",
+        "currency": "TIME",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=41153",
+        "currency": "LUNA",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=41658",
+        "currency": "NFTB",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=41664",
+        "currency": "AIOZ",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=41676",
+        "currency": "WAG",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=41906",
+        "currency": "APY",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=42577",
+        "currency": "HOTCROSS",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=42797",
+        "currency": "MUSD",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=43423",
+        "currency": "OLT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=43553",
+        "currency": "SPI",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=43722",
+        "currency": "GRIN",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=44089",
+        "currency": "BTR",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=44798",
+        "currency": "DDIM",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=44977",
+        "currency": "SNTVT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=45186",
+        "currency": "HERO",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=45415",
+        "currency": "VERI",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=45485",
+        "currency": "WICC",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=45681",
+        "currency": "GO",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=46844",
+        "currency": "CMT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=46850",
+        "currency": "BLZ",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=47072",
+        "currency": "WTC",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=47193",
+        "currency": "NEBL",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=47485",
+        "currency": "ERC20",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=47495",
+        "currency": "AHT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=47584",
+        "currency": "OXEN",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=47637",
+        "currency": "VID",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=47654",
+        "currency": "TORN",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=47756",
+        "currency": "SAFE",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=47761",
+        "currency": "DEXT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=47803",
+        "currency": "LOTTO",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=47865",
+        "currency": "GRO",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=47912",
+        "currency": "HPT",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=47999",
+        "currency": "MVL",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=48013",
+        "currency": "NMR",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=48096",
+        "currency": "BTS",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=48142",
+        "currency": "LRC",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=48171",
+        "currency": "RLY",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=48174",
+        "currency": "STPT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=48220",
+        "currency": "IQ",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=48281",
+        "currency": "AQT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=48287",
+        "currency": "FLM",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=48515",
+        "currency": "PNK",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=48576",
+        "currency": "SOLVE",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=49047",
+        "currency": "JASMY",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=49304",
+        "currency": "NIM",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=49389",
+        "currency": "DFA",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=49687",
+        "currency": "RMRK",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=49836",
+        "currency": "CENNZ",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=50417",
+        "currency": "FIRO",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=51046",
+        "currency": "GTO",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=51414",
+        "currency": "QNT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=51706",
+        "currency": "CRO",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=51796",
+        "currency": "DAI",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=51858",
+        "currency": "FLOW",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=51931",
+        "currency": "CVX",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=51979",
+        "currency": "HOT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=52026",
+        "currency": "KDA",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=52142",
+        "currency": "Q",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=52194",
+        "currency": "MITH",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=52201",
+        "currency": "EDEN",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=52249",
+        "currency": "SAND",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=52305",
+        "currency": "MOVR",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=52321",
+        "currency": "LYXE",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=52326",
+        "currency": "YOUC",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=52390",
+        "currency": "MANA",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=52450",
+        "currency": "CRV",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=52541",
+        "currency": "BCH",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=52619",
+        "currency": "XYM",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=52689",
+        "currency": "STD",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=52778",
+        "currency": "SAITO",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=52911",
+        "currency": "STRK",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=52990",
+        "currency": "CCXX",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=53000",
+        "currency": "BNB",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=53044",
+        "currency": "BIT",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=53054",
+        "currency": "CTC",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=53099",
+        "currency": "NXM",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=53123",
+        "currency": "ORC",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=53251",
+        "currency": "TTT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=53351",
+        "currency": "DFI",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=53488",
+        "currency": "GLM",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=53551",
+        "currency": "COTI",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=53554",
+        "currency": "HUSD",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=53600",
+        "currency": "ONT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=53704",
+        "currency": "FEI",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=53740",
+        "currency": "POLY",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=53797",
+        "currency": "HEX",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=53960",
+        "currency": "ISLAMI",
+        "is_halal": null
+    },
+    {
+        "guid": "https://btcacademy.online/?p=54065",
+        "currency": "LN",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=54123",
+        "currency": "SYN",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=54404",
+        "currency": "PLA",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=54418",
+        "currency": "FTX",
+        "is_halal": null
+    },
+    {
+        "guid": "https://btcacademy.online/?p=54472",
+        "currency": "FIDA",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=54565",
+        "currency": "XNO",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=54638",
+        "currency": "SNM",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=54898",
+        "currency": "METIS",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=55119",
+        "currency": "8220",
+        "is_halal": null
+    },
+    {
+        "guid": "https://btcacademy.online/?p=55133",
+        "currency": "GLCH",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=55231",
+        "currency": "SUPER",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=55373",
+        "currency": "HOOK",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=55386",
+        "currency": "OSMO",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=55572",
+        "currency": "ARK",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=55714",
+        "currency": "GHST",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=55763",
+        "currency": "RBN",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=55843",
+        "currency": "PYR",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=56032",
+        "currency": "DREP",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=56074",
+        "currency": "CHESS",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=56291",
+        "currency": "BIFI",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=56314",
+        "currency": "REI",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=56328",
+        "currency": "MAGIC",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=56407",
+        "currency": "ILV",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=56529",
+        "currency": "1",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=56636",
+        "currency": "BEPRO",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=56768",
+        "currency": "ATS",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=56842",
+        "currency": "BAL",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=57087",
+        "currency": "MC",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=57162",
+        "currency": "RPL",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=57197",
+        "currency": "WAXP",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=57392",
+        "currency": "JOE",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=57703",
+        "currency": "HYPER",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=57776",
+        "currency": "POLS",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=57936",
+        "currency": "DEGO",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=57943",
+        "currency": "AGIX",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=58012",
+        "currency": "ACH",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=58057",
+        "currency": "CRU",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=58093",
+        "currency": "BONK",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=58119",
+        "currency": "OPT",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=58158",
+        "currency": "GFT",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=58352",
+        "currency": "XCUR",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=58368",
+        "currency": "CORE",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=58439",
+        "currency": "BTT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=58493",
+        "currency": "GMX",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=58561",
+        "currency": "SWEAT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=58592",
+        "currency": "ACH",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=58712",
+        "currency": "HFT",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=58734",
+        "currency": "APE",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=58859",
+        "currency": "QUICK",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=58929",
+        "currency": "PTT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=59087",
+        "currency": "AMP",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=59130",
+        "currency": "BNX",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=59347",
+        "currency": "CVP",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=59514",
+        "currency": "ACA",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=59674",
+        "currency": "POLYX",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=59890",
+        "currency": "VRA",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=60248",
+        "currency": "POMO",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=60307",
+        "currency": "NOM",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=61022",
+        "currency": "ARB",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=61169",
+        "currency": "EVER",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=61457",
+        "currency": "AIP",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=61771",
+        "currency": "WOO",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=61997",
+        "currency": "ERN",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=62160",
+        "currency": "CSPR",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=62207",
+        "currency": "DERO",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=62294",
+        "currency": "ORBS",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=62402",
+        "currency": "ROSE",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=62535",
+        "currency": "DAG",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=62575",
+        "currency": "MAID",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=63194",
+        "currency": "SPECTAR",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=63456",
+        "currency": "ALPINE",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=63573",
+        "currency": "ORN",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=63708",
+        "currency": "PEPE",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=63878",
+        "currency": "NU",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=64007",
+        "currency": "BORA",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=64259",
+        "currency": "DODO",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=64276",
+        "currency": "UQC",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=64335",
+        "currency": "CLV",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=64901",
+        "currency": "RKN",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=65587",
+        "currency": "APT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=65713",
+        "currency": "DVPN",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=65784",
+        "currency": "DKA",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=65916",
+        "currency": "COPIUM",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=66172",
+        "currency": "QTUM",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=66261",
+        "currency": "ROOK",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=66328",
+        "currency": "OMG",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=66778",
+        "currency": "KLV",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=67171",
+        "currency": "RBTC",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=67198",
+        "currency": "BANANA",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=67365",
+        "currency": "DDX",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=67567",
+        "currency": "MOF",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=67822",
+        "currency": "OXY",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=68054",
+        "currency": "ARKM",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=68794",
+        "currency": "AKT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=68803",
+        "currency": "ASD",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=70150",
+        "currency": "RARE",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=70697",
+        "currency": "SEI",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=70703",
+        "currency": "CYBER",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=71087",
+        "currency": "SUI",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=58034",
+        "currency": "XPR",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=71717",
+        "currency": "META",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=71885",
+        "currency": "WLD",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=72021",
+        "currency": "QKC",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=72160",
+        "currency": "MULTI",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=72167",
+        "currency": "OAX",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=72328",
+        "currency": "SPELL",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=72396",
+        "currency": "JST",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=72559",
+        "currency": "TRAC",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=72959",
+        "currency": "COS",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=73623",
+        "currency": "PROS",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=73885",
+        "currency": "PENDLE",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=73994",
+        "currency": "SLP",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=74176",
+        "currency": "KNC",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=74237",
+        "currency": "LEVER",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=74840",
+        "currency": "WING",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=75279",
+        "currency": "NTRN",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=75474",
+        "currency": "ARDR",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=76176",
+        "currency": "MNT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=76682",
+        "currency": "TIA",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=77271",
+        "currency": "ORDI",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=78615",
+        "currency": "BLUR",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=78619",
+        "currency": "PYTH",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=79770",
+        "currency": "JITO",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=81530",
+        "currency": "NFP",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=81658",
+        "currency": "KP3R",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=82812",
+        "currency": "XAI",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=82817",
+        "currency": "NFP",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=84467",
+        "currency": "ALT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=84687",
+        "currency": "AVIVE",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=84909",
+        "currency": "MOB",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=84984",
+        "currency": "SEILOR",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=85477",
+        "currency": "RON",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=85483",
+        "currency": "DYM",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=85769",
+        "currency": "ONDO",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=86205",
+        "currency": "KAS",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=86255",
+        "currency": "FLOKI",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=86288",
+        "currency": "ZETA",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=86384",
+        "currency": "B",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=86635",
+        "currency": "STRK",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=86737",
+        "currency": "XPLL",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=86850",
+        "currency": "PNG",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=87373",
+        "currency": "AXL",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=87806",
+        "currency": "JUP",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=87883",
+        "currency": "VIC",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=87978",
+        "currency": "SCOTTY",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=87986",
+        "currency": "ALGT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=88153",
+        "currency": "GALA",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=88238",
+        "currency": "ZRX",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=88556",
+        "currency": "AEVO",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=88874",
+        "currency": "MUBI",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=88880",
+        "currency": "ROOT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=88930",
+        "currency": "DUEL",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=89287",
+        "currency": "SHDW",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=89486",
+        "currency": "ETHFI",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=90032",
+        "currency": "TON",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=90231",
+        "currency": "P",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=90325",
+        "currency": "ENA",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=90328",
+        "currency": "XAR",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=90485",
+        "currency": "W",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=90489",
+        "currency": "OIN",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=90493",
+        "currency": "MBOX",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=90501",
+        "currency": "PRIMAL",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=90533",
+        "currency": "SAGA",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=90543",
+        "currency": "KNJ",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=90549",
+        "currency": "BXN",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=90714",
+        "currency": "LAYER",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=90861",
+        "currency": "MP",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=91002",
+        "currency": "TNSR",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=91005",
+        "currency": "PORTAL",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=91069",
+        "currency": "TRUF",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=91293",
+        "currency": "TAO",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=91349",
+        "currency": "EQ",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=91592",
+        "currency": "FRBK",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=91834",
+        "currency": "ESE",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=91865",
+        "currency": "OMNI",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=92076",
+        "currency": "GAL",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=92103",
+        "currency": "ONG",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=92163",
+        "currency": "PBR",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=92304",
+        "currency": "ORFY",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=92312",
+        "currency": "EGO",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=92829",
+        "currency": "MANTA",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=92860",
+        "currency": "WRX",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=93638",
+        "currency": "NAVI",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=93652",
+        "currency": "LPT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=94190",
+        "currency": "FLURRY",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=94250",
+        "currency": "DSYNC",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=94307",
+        "currency": "PUNDIX",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=94556",
+        "currency": "EZ",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=94576",
+        "currency": "OPEN",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=94866",
+        "currency": "VEE",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=94883",
+        "currency": "REZ",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=95322",
+        "currency": "T",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=95672",
+        "currency": "MNZ",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=95689",
+        "currency": "ZKB",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=95902",
+        "currency": "OAX",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=95915",
+        "currency": "CORAL",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=96278",
+        "currency": "MSN",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=96285",
+        "currency": "COMBO",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=96536",
+        "currency": "CRPT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=96588",
+        "currency": "VIM",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=96823",
+        "currency": "VGX",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=96861",
+        "currency": "AUCTION",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=97663",
+        "currency": "PI",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=97726",
+        "currency": "FAN",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=98201",
+        "currency": "KMNO",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=98570",
+        "currency": "NIZA",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=99063",
+        "currency": "RAFT",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=99264",
+        "currency": "SPEC",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=99399",
+        "currency": "PHM",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=99521",
+        "currency": "8221",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=99554",
+        "currency": "ITEM",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=99684",
+        "currency": "BB",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=100180",
+        "currency": "SSV",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=100338",
+        "currency": "NOT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=100491",
+        "currency": "GARD",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=100777",
+        "currency": "EDU",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=100794",
+        "currency": "PSL",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=101104",
+        "currency": "NAI",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=101277",
+        "currency": "ARES",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=101440",
+        "currency": "WBETH",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=101588",
+        "currency": "WNXM",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=101818",
+        "currency": "LISTA",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=101857",
+        "currency": "KYVE",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=102012",
+        "currency": "PDA",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=102304",
+        "currency": "O4DX",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=102474",
+        "currency": "HLG",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=102591",
+        "currency": "LYNX",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=102606",
+        "currency": "ALICE",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=102904",
+        "currency": "NOS",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=102914",
+        "currency": "FRA",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=102969",
+        "currency": "OFF",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=103071",
+        "currency": "SERO",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=103559",
+        "currency": "DOPE",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=103562",
+        "currency": "DEVVE",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=103568",
+        "currency": "IO",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=103876",
+        "currency": "SFG",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=104013",
+        "currency": "PACE",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=104125",
+        "currency": "NIBI",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=104503",
+        "currency": "RWA",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=104603",
+        "currency": "SYNC",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=104728",
+        "currency": "ZK",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=104754",
+        "currency": "FLOKI",
+        "is_halal": null
+    },
+    {
+        "guid": "https://btcacademy.online/?p=104981",
+        "currency": "CREDI",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=105434",
+        "currency": "ADF",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=105448",
+        "currency": "RAM",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=105461",
+        "currency": "ZRO",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=105575",
+        "currency": "LVN",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=105771",
+        "currency": "MDUS",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=105901",
+        "currency": "BYN",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=105997",
+        "currency": "ZLW",
+        "is_halal": null
+    },
+    {
+        "guid": "https://btcacademy.online/?p=106285",
+        "currency": "ABT",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=106296",
+        "currency": "AGI",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=106449",
+        "currency": "PAAL",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=106608",
+        "currency": "SNY",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=106852",
+        "currency": "XDEFI",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=106920",
+        "currency": "HCT",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=107212",
+        "currency": "YGG",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=107215",
+        "currency": "BOME",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=107236",
+        "currency": "AVA",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=107253",
+        "currency": "LOS",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=107345",
+        "currency": "BLUM",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=107501",
+        "currency": "ASI",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=107517",
+        "currency": "BDP",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=107820",
+        "currency": "PERI",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=107945",
+        "currency": "TLM",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=107995",
+        "currency": "MERL",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=108046",
+        "currency": "FORTH",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=108102",
+        "currency": "BSW",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=108135",
+        "currency": "DOGS",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=108150",
+        "currency": "LAI",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=108203",
+        "currency": "SSNC",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=108247",
+        "currency": "B",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=108306",
+        "currency": "ARRR",
+        "is_halal": true
     }
 ]
