@@ -3103,5 +3103,15 @@
         "guid": "https://btcacademy.online/?p=108306",
         "currency": "ARRR",
         "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=108380",
+        "currency": "BCHB",
+        "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=108384",
+        "currency": "OMI",
+        "is_halal": true
     }
 ]
