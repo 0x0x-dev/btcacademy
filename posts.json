@@ -3113,5 +3113,10 @@
         "guid": "https://btcacademy.online/?p=108384",
         "currency": "OMI",
         "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=108446",
+        "currency": "VAI",
+        "is_halal": true
     }
 ]
