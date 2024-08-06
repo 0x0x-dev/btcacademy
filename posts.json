@@ -3118,5 +3118,10 @@
         "guid": "https://btcacademy.online/?p=108446",
         "currency": "VAI",
         "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=108497",
+        "currency": "STETH",
+        "is_halal": false
     }
 ]
