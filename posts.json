@@ -3128,5 +3128,10 @@
         "guid": "https://btcacademy.online/?p=108520",
         "currency": "OPUL",
         "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=108599",
+        "currency": "ETHW",
+        "is_halal": true
     }
 ]
