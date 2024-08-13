@@ -3133,5 +3133,15 @@
         "guid": "https://btcacademy.online/?p=108599",
         "currency": "ETHW",
         "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=108631",
+        "currency": "MAV",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=108635",
+        "currency": "GT",
+        "is_halal": false
     }
 ]
