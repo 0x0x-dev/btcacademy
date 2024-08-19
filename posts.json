@@ -3148,5 +3148,10 @@
         "guid": "https://btcacademy.online/?p=108713",
         "currency": "BGB",
         "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=108729",
+        "currency": "CULT",
+        "is_halal": false
     }
 ]
