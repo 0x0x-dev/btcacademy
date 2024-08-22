@@ -3168,5 +3168,10 @@
         "guid": "https://btcacademy.online/?p=108782",
         "currency": "XRD",
         "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=108802",
+        "currency": "XOR",
+        "is_halal": true
     }
 ]
