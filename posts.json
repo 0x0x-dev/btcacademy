@@ -3178,5 +3178,10 @@
         "guid": "https://btcacademy.online/?p=108859",
         "currency": "BOSON",
         "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=108912",
+        "currency": "NSBT",
+        "is_halal": true
     }
 ]
