@@ -3183,5 +3183,10 @@
         "guid": "https://btcacademy.online/?p=108912",
         "currency": "NSBT",
         "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=108955",
+        "currency": "XEL",
+        "is_halal": true
     }
 ]
