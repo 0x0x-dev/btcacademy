@@ -3193,5 +3193,10 @@
         "guid": "https://btcacademy.online/?p=109071",
         "currency": "VEGA",
         "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=109188",
+        "currency": "BACON",
+        "is_halal": false
     }
 ]
