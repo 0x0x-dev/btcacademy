@@ -3203,5 +3203,15 @@
         "guid": "https://btcacademy.online/?p=109261",
         "currency": "YLD",
         "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=109300",
+        "currency": "1MBABYDOGE",
+        "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=109308",
+        "currency": "OME",
+        "is_halal": false
     }
 ]
