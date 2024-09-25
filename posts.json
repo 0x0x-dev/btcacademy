@@ -3213,5 +3213,10 @@
         "guid": "https://btcacademy.online/?p=109308",
         "currency": "OME",
         "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=109379",
+        "currency": "CLH",
+        "is_halal": false
     }
 ]
