@@ -3218,5 +3218,10 @@
         "guid": "https://btcacademy.online/?p=109379",
         "currency": "CLH",
         "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=109502",
+        "currency": "EIGEN",
+        "is_halal": false
     }
 ]
