@@ -3233,5 +3233,10 @@
         "guid": "https://btcacademy.online/?p=109724",
         "currency": "CFD",
         "is_halal": null
+    },
+    {
+        "guid": "https://btcacademy.online/?p=109732",
+        "currency": "OPN",
+        "is_halal": true
     }
 ]
