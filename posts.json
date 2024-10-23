@@ -3238,5 +3238,10 @@
         "guid": "https://btcacademy.online/?p=109732",
         "currency": "OPN",
         "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=109749",
+        "currency": "OOKI",
+        "is_halal": false
     }
 ]
