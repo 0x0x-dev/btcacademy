@@ -3243,5 +3243,10 @@
         "guid": "https://btcacademy.online/?p=109749",
         "currency": "OOKI",
         "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=109792",
+        "currency": "SCR",
+        "is_halal": false
     }
 ]
