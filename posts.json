@@ -3248,5 +3248,10 @@
         "guid": "https://btcacademy.online/?p=109792",
         "currency": "SCR",
         "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=109805",
+        "currency": "EL",
+        "is_halal": true
     }
 ]
