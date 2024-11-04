@@ -3258,5 +3258,10 @@
         "guid": "https://btcacademy.online/?p=109832",
         "currency": "LUMIA",
         "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=109872",
+        "currency": "SD",
+        "is_halal": false
     }
 ]
