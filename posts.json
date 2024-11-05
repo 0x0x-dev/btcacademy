@@ -3263,5 +3263,10 @@
         "guid": "https://btcacademy.online/?p=109872",
         "currency": "SD",
         "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=109901",
+        "currency": "VELA",
+        "is_halal": false
     }
 ]
