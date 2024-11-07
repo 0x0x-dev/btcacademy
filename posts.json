@@ -3268,5 +3268,10 @@
         "guid": "https://btcacademy.online/?p=109901",
         "currency": "VELA",
         "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=109939",
+        "currency": "CETUS",
+        "is_halal": false
     }
 ]
