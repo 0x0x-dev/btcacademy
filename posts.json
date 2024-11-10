@@ -3273,5 +3273,10 @@
         "guid": "https://btcacademy.online/?p=109939",
         "currency": "CETUS",
         "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=109961",
+        "currency": "KAIA",
+        "is_halal": false
     }
 ]
