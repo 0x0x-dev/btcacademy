@@ -3283,5 +3283,10 @@
         "guid": "https://btcacademy.online/?p=110061",
         "currency": "HAI",
         "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=110141",
+        "currency": "ORAO",
+        "is_halal": true
     }
 ]
