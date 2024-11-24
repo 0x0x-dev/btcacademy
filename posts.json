@@ -3293,5 +3293,10 @@
         "guid": "https://btcacademy.online/?p=110166",
         "currency": "USUAL",
         "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=110191",
+        "currency": "NLK",
+        "is_halal": true
     }
 ]
