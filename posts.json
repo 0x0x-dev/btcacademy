@@ -3298,5 +3298,10 @@
         "guid": "https://btcacademy.online/?p=110191",
         "currency": "NLK",
         "is_halal": true
+    },
+    {
+        "guid": "https://btcacademy.online/?p=110259",
+        "currency": "EGO",
+        "is_halal": true
     }
 ]
