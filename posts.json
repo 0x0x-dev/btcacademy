@@ -3308,5 +3308,10 @@
         "guid": "https://btcacademy.online/?p=110295",
         "currency": "THE",
         "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=110376",
+        "currency": "XION",
+        "is_halal": false
     }
 ]
