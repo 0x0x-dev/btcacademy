@@ -3313,5 +3313,10 @@
         "guid": "https://btcacademy.online/?p=110376",
         "currency": "XION",
         "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=110397",
+        "currency": "ORCA",
+        "is_halal": false
     }
 ]
