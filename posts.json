@@ -3318,5 +3318,10 @@
         "guid": "https://btcacademy.online/?p=110397",
         "currency": "ORCA",
         "is_halal": false
+    },
+    {
+        "guid": "https://btcacademy.online/?p=110443",
+        "currency": "ACX",
+        "is_halal": false
     }
 ]
